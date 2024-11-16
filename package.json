@@ -150,7 +150,7 @@
     "eslint-webpack-plugin": "^2.7.0",
     "mocha": "^10.3.0",
     "nodemon": "^2.0.19",
-    "nyc": "^14.1.1",
+    "nyc": "^17.1.0",
     "should": "^13.2.3",
     "supertest": "^3.4.2",
     "webpack-bundle-analyzer": "^4.5.0",
